@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 This branch will be for a long time.
-branch2
+branch2 is existing.

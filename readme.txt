@@ -7,5 +7,3 @@ Creating a new branch is quick AND simple.
 This branch will be for a long time.
 branch2 is existing.
 now,have a bug.
-
-master:

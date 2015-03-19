@@ -8,4 +8,4 @@ This branch will be for a long time.
 branch2 is existing.
 now,have a bug.
 
-dev:Oh no,it`s wrong.
+dev:haha,it`s ok.
